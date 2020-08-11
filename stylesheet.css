@@ -307,6 +307,10 @@ footer {
 		display: none;
 	}
 
+	.mv {
+		background-image: url(img/code.png);
+	}
+
 	.mv-text h1 {
 		font-size: 40px;
 	}
